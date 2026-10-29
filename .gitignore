@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+backup_v1/
+dataset/cats/
+dataset/dogs/

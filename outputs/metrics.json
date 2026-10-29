@@ -1,0 +1,21 @@
+{
+  "test_loss": 0.6786686182022095,
+  "test_accuracy": 0.6133333444595337,
+  "precision": 0.5876288659793815,
+  "recall": 0.76,
+  "f1_score": 0.6627906976744186,
+  "confusion_matrix": [
+    [
+      35,
+      40
+    ],
+    [
+      18,
+      57
+    ]
+  ],
+  "train_images": 700,
+  "val_images": 150,
+  "test_images": 150,
+  "epochs_run": 15
+}
